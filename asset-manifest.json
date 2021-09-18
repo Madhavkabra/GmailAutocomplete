@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GmailAutocomplete/static/css/main.de605c20.chunk.css",
+    "main.js": "/GmailAutocomplete/static/js/main.53d3cdf3.chunk.js",
+    "main.js.map": "/GmailAutocomplete/static/js/main.53d3cdf3.chunk.js.map",
+    "runtime-main.js": "/GmailAutocomplete/static/js/runtime-main.b56a9614.js",
+    "runtime-main.js.map": "/GmailAutocomplete/static/js/runtime-main.b56a9614.js.map",
+    "static/css/2.d65a53d6.chunk.css": "/GmailAutocomplete/static/css/2.d65a53d6.chunk.css",
+    "static/js/2.7e4410c4.chunk.js": "/GmailAutocomplete/static/js/2.7e4410c4.chunk.js",
+    "static/js/2.7e4410c4.chunk.js.map": "/GmailAutocomplete/static/js/2.7e4410c4.chunk.js.map",
+    "index.html": "/GmailAutocomplete/index.html",
+    "precache-manifest.bece27c3612729bb529261879fa9860d.js": "/GmailAutocomplete/precache-manifest.bece27c3612729bb529261879fa9860d.js",
+    "service-worker.js": "/GmailAutocomplete/service-worker.js",
+    "static/css/2.d65a53d6.chunk.css.map": "/GmailAutocomplete/static/css/2.d65a53d6.chunk.css.map",
+    "static/css/main.de605c20.chunk.css.map": "/GmailAutocomplete/static/css/main.de605c20.chunk.css.map",
+    "static/js/2.7e4410c4.chunk.js.LICENSE.txt": "/GmailAutocomplete/static/js/2.7e4410c4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/GmailAutocomplete/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56a9614.js",
+    "static/css/2.d65a53d6.chunk.css",
+    "static/js/2.7e4410c4.chunk.js",
+    "static/css/main.de605c20.chunk.css",
+    "static/js/main.53d3cdf3.chunk.js"
+  ]
+}
